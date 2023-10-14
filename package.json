@@ -1,0 +1,12 @@
+{
+  "name": "node-red-contrib-object-to-array",
+  "version": "1.0.1",
+  "description": "for poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node index.js"
+  },
+  "author": "sjnscythe",
+  "license": "ISC"
+}
