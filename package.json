@@ -1,5 +1,5 @@
 {
-  "name": "docinator",
+  "name": "@scythe/docinator",
   "version": "1.0.1",
   "description": "for poc",
   "main": "index.js",
